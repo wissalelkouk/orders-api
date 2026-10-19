@@ -1,0 +1,5 @@
+site_name: orders-api
+nav:
+  - Accueil: index.md
+plugins:
+  - techdocs-core
